@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.venv/
+venv/
+ENV/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+
+# Data / artifacts (uncomment if needed)
+# *.csv
+# *.pkl
+# *.pt
+
+# Keep repo focused on the notebook
+NLP Assignment 2.pdf
